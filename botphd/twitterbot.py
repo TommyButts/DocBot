@@ -1,9 +1,8 @@
-import tweepy
-import markovify
 from time import sleep
+
+import markovify
+import tweepy
 from twitter_cred import consumer_key, consumer_secret, access_token, access_token_secret
-
-
 
 class TweetBot:
     def __init__(self, corpus):
