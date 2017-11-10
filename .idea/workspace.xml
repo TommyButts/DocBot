@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="930fa0be-635e-4241-a1d1-a2d10da2c547" name="Default" comment="" />
+    <list default="true" id="930fa0be-635e-4241-a1d1-a2d10da2c547" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/botphd/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="twitterbot.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="twitterbot.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/botphd/twitterbot.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -19,6 +21,16 @@
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -32,6 +44,14 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/botphd/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="165" />
@@ -65,11 +85,6 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="DocBot" type="cbb8eebc:String" user="DocBot" />
-              <item name=".idea" type="cbb8eebc:String" user=".idea" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="DocBot" type="cbb8eebc:String" user="DocBot" />
               <item name="botphd" type="cbb8eebc:String" user="botphd" />
             </path>
           </expand>
@@ -93,6 +108,11 @@
         </subPane>
       </pane>
     </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tom\PycharmProjects\DocBot" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -193,6 +213,22 @@
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
